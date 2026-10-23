@@ -3,15 +3,6 @@
 Projet d'intégration réalisé à l'**ISET Charguia** (Licence RSI, année universitaire 2025-2026).
 Mise en place d'une infrastructure de virtualisation complète basée sur **Proxmox VE 9.1** : VMs, conteneurs, cluster multi-nœuds, migration, sauvegarde, haute disponibilité avec Ceph, et automatisation avec Ansible, Vagrant et Terraform.
 
-## Équipe
-
-| Membre |
-|---|
-| Salma Khelifi |
-| Karim Khelifi |
-| Aziz Rakrouki |
-| Siwar Srairi |
-
 ## Architecture
 
 ![Architecture globale](docs/screenshots/54-architecture-globale.png)
